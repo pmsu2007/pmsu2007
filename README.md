@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pmsu2007)](https://solved.ac/pmsu2007/)
- [![pmsu2007's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/pmsu2007/github-readme-stats)
+[![pmsu2007's github stats](https://github-readme-stats.vercel.app/api?username=pmsu2007)](https://github.com/pmsu2007/github-readme-stats)
 <!--
 **pmsu2007/pmsu2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
